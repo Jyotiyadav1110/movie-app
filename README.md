@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## Project Link-> https://movie-a0g9uludx-jyotimishra05.vercel.app/
+## Project Link-> https://movie-app-ohhc-d5j8pdyyd-jyotimishra05.vercel.app/
 
 ## Available Scripts
 
